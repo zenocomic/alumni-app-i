@@ -10,7 +10,7 @@ export class FaqComponent implements OnInit {
   constructor() { }
 
   ngOnInit(): void {
-    alert('ยินดีต้อนรับ');
+    // alert('ยินดีต้อนรับ');
   }
 
 }
